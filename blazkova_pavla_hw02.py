@@ -21,7 +21,7 @@ for line in data:
         'title': line[title_index],
         'directors': line[director_index].split(', ') if line[director_index] else [],
         'cast': line[cast_index].split(', ') if line[cast_index] else [],
-        'genre': line[genre_index].split(', ') if line[genre_index] else [],
+        'genres': line[genre_index].split(',') if line[genre_index] else [],
         'decade': (int(line[decade_index]) // 10) * 10
     }
     movies_info.append(dict_movie)

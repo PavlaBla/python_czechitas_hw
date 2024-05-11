@@ -17,8 +17,9 @@
             "Michael Moriarty",
             "Penelope Ann Miller"
         ],
-        "genre": [
-            "Drama,Thriller"
+        "genres": [
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -39,8 +40,9 @@
             "Jonathan Loughran",
             "Al Whiting"
         ],
-        "genre": [
-            "Comedy,Sport"
+        "genres": [
+            "Comedy",
+            "Sport"
         ],
         "decade": 1990
     },
@@ -64,8 +66,10 @@
             "Selwyn Ward",
             "Donene Kistler"
         ],
-        "genre": [
-            "Action,Adventure,Family"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
         ],
         "decade": 1990
     },
@@ -78,8 +82,10 @@
             "Kurt Cobain",
             "Courtney Love"
         ],
-        "genre": [
-            "Crime,Documentary,Music"
+        "genres": [
+            "Crime",
+            "Documentary",
+            "Music"
         ],
         "decade": 1990
     },
@@ -106,8 +112,9 @@
             "Gideon Jacobs",
             "Elizabeth Banks"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -126,8 +133,9 @@
             "Sarah Jessica Parker",
             "Mitchell Ryan"
         ],
-        "genre": [
-            "Biography,Drama"
+        "genres": [
+            "Biography",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -144,8 +152,9 @@
             "Veena Gaud",
             "Manju Maini"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -164,8 +173,10 @@
             "Celina Jaitly",
             "Boman Irani"
         ],
-        "genre": [
-            "Comedy,Drama,Musical"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
         ],
         "decade": 2000
     },
@@ -189,8 +200,10 @@
             "Edison Chen",
             "Jackie Chan"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -208,8 +221,9 @@
             "Hua Yueh",
             "Wong Kung-miu"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -226,8 +240,10 @@
             "Neil Nitin Mukesh",
             "John Abraham"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2010
     },
@@ -247,8 +263,9 @@
             "Richard Tyson",
             "Lin Shaye"
         ],
-        "genre": [
-            "Comedy,Sport"
+        "genres": [
+            "Comedy",
+            "Sport"
         ],
         "decade": 1990
     },
@@ -297,8 +314,10 @@
             "Rupert Frazer",
             "Edmund Kente"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2010
     },
@@ -311,8 +330,10 @@
             "Inthira Charoenpura",
             "Winai Kraibutr"
         ],
-        "genre": [
-            "Horror,Romance,War"
+        "genres": [
+            "Horror",
+            "Romance",
+            "War"
         ],
         "decade": 1990
     },
@@ -330,8 +351,10 @@
             "Harvey Keitel",
             "Christopher Plummer"
         ],
-        "genre": [
-            "Action,Adventure,Mystery"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -350,8 +373,10 @@
             "Sushma Seth",
             "Trilok Kapoor"
         ],
-        "genre": [
-            "Drama,Musical,Romance"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
         ],
         "decade": 1980
     },
@@ -374,7 +399,7 @@
             "Ben Stein",
             "Del Close"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1980
@@ -396,7 +421,7 @@
             "Sujata Bakshi",
             "Meena T."
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1970
@@ -416,7 +441,7 @@
             "Terence Bayler",
             "Carol Cleveland"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1970
@@ -436,8 +461,10 @@
             "Jason Isaacs",
             "Sean Pertwee"
         ],
-        "genre": [
-            "Horror,Sci-Fi,Thriller"
+        "genres": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -458,8 +485,9 @@
             "Carmen Electra",
             "George Cheung"
         ],
-        "genre": [
-            "Comedy,Crime"
+        "genres": [
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -482,8 +510,10 @@
             "Tomás Hanák",
             "Laura Greenwood"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -499,8 +529,10 @@
             "Farida Jalal",
             "Vijayendra Ghatge"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -519,8 +551,10 @@
             "P. Jairaj",
             "Yunus Parvez"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 1970
     },
@@ -541,8 +575,10 @@
             "Dom DeLuise",
             "Madeline Kahn"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 1980
     },
@@ -566,8 +602,10 @@
             "Tadahiro Nakamura",
             "Kerrigan Mahan"
         ],
-        "genre": [
-            "Action,Adventure,Family"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
         ],
         "decade": 1990
     },
@@ -587,8 +625,10 @@
             "Strother Martin",
             "Jeff Corey"
         ],
-        "genre": [
-            "Adventure,Drama,Western"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
         ],
         "decade": 1960
     },
@@ -610,8 +650,10 @@
             "Edwin Jerome",
             "Corinne Marchand"
         ],
-        "genre": [
-            "Comedy,Musical,Romance"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
         ],
         "decade": 1950
     },
@@ -632,8 +674,9 @@
             "David Benger",
             "Adam Rose"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -658,8 +701,9 @@
             "Ryo Ishibashi",
             "Steph Song"
         ],
-        "genre": [
-            "Action,Thriller"
+        "genres": [
+            "Action",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -691,8 +735,10 @@
             "Eric Peter-Kaiser",
             "Bobby Hanson"
         ],
-        "genre": [
-            "Biography,Drama,History"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
         ],
         "decade": 2000
     },
@@ -719,8 +765,9 @@
             "Trevor Fox",
             "Adam Cooper"
         ],
-        "genre": [
-            "Drama,Music"
+        "genres": [
+            "Drama",
+            "Music"
         ],
         "decade": 2000
     },
@@ -740,8 +787,9 @@
             "Sreela Mazumdar",
             "Neena Gupta"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -760,7 +808,7 @@
             "Larry Gates",
             "Vaughn Taylor"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1950
@@ -782,8 +830,9 @@
             "Elaine Stritch",
             "Stephen Dunham"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -803,8 +852,10 @@
             "Prem Chopra",
             "Farida Jalal"
         ],
-        "genre": [
-            "Comedy,Musical,Romance"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -825,8 +876,9 @@
             "Ryan Reynolds",
             "Stephen Root"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -847,8 +899,10 @@
             "Michael Trucco",
             "Enzo Cilenti"
         ],
-        "genre": [
-            "Action,Sci-Fi,Thriller"
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -868,8 +922,10 @@
             "Elise Neal",
             "Isaac Hayes"
         ],
-        "genre": [
-            "Crime,Drama,Music"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Music"
         ],
         "decade": 2000
     },
@@ -890,8 +946,10 @@
             "Percy Edwards",
             "Joseph O'Conor"
         ],
-        "genre": [
-            "Adventure,Family,Fantasy"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
         ],
         "decade": 1980
     },
@@ -911,8 +969,10 @@
             "Maria Ricossa",
             "Candice Bergen"
         ],
-        "genre": [
-            "Action,Comedy,Thriller"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -928,8 +988,9 @@
             "Martha Scott",
             "Paul Regina"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -939,8 +1000,9 @@
         "cast": [
             "Chow Yun Fat"
         ],
-        "genre": [
-            "Adventure,Drama"
+        "genres": [
+            "Adventure",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -961,8 +1023,10 @@
             "Sapna Bhavnani",
             "Sophiya Chaudhary"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -979,8 +1043,10 @@
             "Terry Carter",
             "Christopher Connelly"
         ],
-        "genre": [
-            "Adventure,Family,Romance"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -999,8 +1065,9 @@
             "Burgess Meredith",
             "Tony Burton"
         ],
-        "genre": [
-            "Drama,Sport"
+        "genres": [
+            "Drama",
+            "Sport"
         ],
         "decade": 1990
     },
@@ -1024,8 +1091,10 @@
             "Jim Nicholson",
             "Tony Cacciotti"
         ],
-        "genre": [
-            "Comedy,Crime,Drama"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
         ],
         "decade": 1970
     },
@@ -1046,8 +1115,10 @@
             "Casey Affleck",
             "Scott Caan"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -1068,8 +1139,10 @@
             "Chelan Simmons",
             "Katharine Isabelle"
         ],
-        "genre": [
-            "Drama,Horror,Sci-Fi"
+        "genres": [
+            "Drama",
+            "Horror",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -1091,8 +1164,10 @@
             "Amber Valletta",
             "Sloane Shelton"
         ],
-        "genre": [
-            "Drama,Fantasy,Horror"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
         ],
         "decade": 2000
     },
@@ -1116,8 +1191,10 @@
             "Luke Wilson",
             "John Cleese"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -1138,7 +1215,7 @@
             "Naseeruddin Shah",
             "Kulbhushan Kharbanda"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -1160,8 +1237,10 @@
             "Howard Huntsberry",
             "Brian Setzer"
         ],
-        "genre": [
-            "Biography,Drama,Music"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
         ],
         "decade": 1980
     },
@@ -1179,8 +1258,9 @@
             "Wah Yuen",
             "Corey Yuen"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -1201,8 +1281,9 @@
             "Zharick León",
             "Lorena Meritano"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -1231,8 +1312,10 @@
             "Aditya Narayan",
             "Subhash Ghai"
         ],
-        "genre": [
-            "Drama,Musical,Romance"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -1253,8 +1336,9 @@
             "David Paetkau",
             "Justina Machado"
         ],
-        "genre": [
-            "Horror,Thriller"
+        "genres": [
+            "Horror",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -1276,8 +1360,9 @@
             "Matt Doran",
             "Belinda McClory"
         ],
-        "genre": [
-            "Action,Sci-Fi"
+        "genres": [
+            "Action",
+            "Sci-Fi"
         ],
         "decade": 1990
     },
@@ -1299,8 +1384,10 @@
             "Geoff Dolan",
             "Holly Shanahan"
         ],
-        "genre": [
-            "Action,Adventure,Fantasy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -1320,7 +1407,7 @@
             "Lucinda Jenney",
             "Bonnie Hunt"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -1347,7 +1434,7 @@
             "Harry Gold",
             "Noelle North"
         ],
-        "genre": [
+        "genres": [
             "Horror"
         ],
         "decade": 1970
@@ -1368,8 +1455,10 @@
             "William Lucking",
             "Diane Delano"
         ],
-        "genre": [
-            "Adventure,Crime,Thriller"
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -1391,8 +1480,10 @@
             "John Lithgow",
             "Hume Cronyn"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 1990
     },
@@ -1411,7 +1502,7 @@
             "Jolanta Lothe",
             "Wanda Stanisławska-Lothe"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1970
@@ -1426,7 +1517,7 @@
             "Ching-Ying Lam",
             "Cheng Pei-pei"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -1448,8 +1539,10 @@
             "Sonny Chiba",
             "Gordon Liu"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -1461,7 +1554,7 @@
         "cast": [
             "Richard Pryor"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1970
@@ -1483,8 +1576,10 @@
             "Murad",
             "Shefali"
         ],
-        "genre": [
-            "Comedy,Musical,Romance"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -1505,8 +1600,10 @@
             "Vincent Sze",
             "Tommy Yuen"
         ],
-        "genre": [
-            "Action,Drama,Fantasy"
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -1520,8 +1617,10 @@
             "Walter Huston",
             "Dana Andrews"
         ],
-        "genre": [
-            "Documentary,History,War"
+        "genres": [
+            "Documentary",
+            "History",
+            "War"
         ],
         "decade": 1940
     },
@@ -1545,8 +1644,10 @@
             "Bob Papenbrook",
             "Mari Maruta"
         ],
-        "genre": [
-            "Action,Adventure,Family"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
         ],
         "decade": 1990
     },
@@ -1561,8 +1662,10 @@
             "Helen Slater",
             "Peter Cook"
         ],
-        "genre": [
-            "Action,Adventure,Fantasy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ],
         "decade": 1980
     },
@@ -1581,7 +1684,7 @@
             "Avtar Gill",
             "Javed Khan"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -1617,8 +1720,10 @@
             "Gary Hershberger",
             "Grace Zabriskie"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 1990
     },
@@ -1640,8 +1745,10 @@
             "Sinéad Cusack",
             "Natasha Wightman"
         ],
-        "genre": [
-            "Action,Drama,Sci-Fi"
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -1663,8 +1770,10 @@
             "Ben Whishaw",
             "Tamer Hassan"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -1689,8 +1798,10 @@
             "David Oyelowo",
             "Bruce McGill"
         ],
-        "genre": [
-            "Biography,Drama,History"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
         ],
         "decade": 2010
     },
@@ -1709,8 +1820,9 @@
             "Tony Burton",
             "Michael Pataki"
         ],
-        "genre": [
-            "Drama,Sport"
+        "genres": [
+            "Drama",
+            "Sport"
         ],
         "decade": 1980
     },
@@ -1730,8 +1842,10 @@
             "Frank Adonis",
             "Joseph Bono"
         ],
-        "genre": [
-            "Biography,Drama,Sport"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
         ],
         "decade": 1980
     },
@@ -1744,8 +1858,10 @@
             "Thelonious Monk",
             "Samuel E. Wright"
         ],
-        "genre": [
-            "Biography,Documentary,Music"
+        "genres": [
+            "Biography",
+            "Documentary",
+            "Music"
         ],
         "decade": 1980
     },
@@ -1766,8 +1882,9 @@
             "Zeenat Aman",
             "Boman Irani"
         ],
-        "genre": [
-            "Crime,Thriller"
+        "genres": [
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -1786,8 +1903,10 @@
             "Yeardley Smith",
             "Lupe Ontiveros"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -1808,8 +1927,10 @@
             "Sushmita Sen",
             "Manoj Bajpayee"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -1829,8 +1950,10 @@
             "Danny Wayne",
             "Terence J. Rotolo"
         ],
-        "genre": [
-            "Action,Adventure,Drama"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -1851,8 +1974,10 @@
             "Philip Baker Hall",
             "Celia Weston"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -1876,8 +2001,10 @@
             "Nona Gaye",
             "Michael Peña"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -1898,8 +2025,10 @@
             "Mukul Agarwal",
             "Shweta Menon"
         ],
-        "genre": [
-            "Action,Comedy,Drama"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -1923,8 +2052,10 @@
             "Vernon Vaughn",
             "Vincent D'Onofrio"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -1955,8 +2086,9 @@
             "Joshua Jackson",
             "Luke Wilson"
         ],
-        "genre": [
-            "Horror,Mystery"
+        "genres": [
+            "Horror",
+            "Mystery"
         ],
         "decade": 1990
     },
@@ -1975,8 +2107,10 @@
             "Anna Katarina",
             "Armin Mueller-Stahl"
         ],
-        "genre": [
-            "Action,Drama,Mystery"
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
         ],
         "decade": 1990
     },
@@ -1997,8 +2131,10 @@
             "Jane Alexander",
             "Michael Ironside"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -2016,8 +2152,10 @@
             "Paresh Rawal",
             "Annu Kapoor"
         ],
-        "genre": [
-            "Drama,Romance,Thriller"
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -2036,8 +2174,10 @@
             "Barry Otto",
             "John Hannan"
         ],
-        "genre": [
-            "Comedy,Drama,Music"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
         ],
         "decade": 1990
     },
@@ -2057,7 +2197,7 @@
             "Mimi Rogers",
             "Eugene Levy"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -2076,8 +2216,9 @@
             "Yu Hai",
             "Jianwen Zhang"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -2098,7 +2239,7 @@
             "Shama Deshpande",
             "Shatrughan Sinha"
         ],
-        "genre": [
+        "genres": [
             "Family"
         ],
         "decade": 2000
@@ -2119,8 +2260,9 @@
             "Jimmy Gambina",
             "Bill Baldwin"
         ],
-        "genre": [
-            "Drama,Sport"
+        "genres": [
+            "Drama",
+            "Sport"
         ],
         "decade": 1970
     },
@@ -2141,8 +2283,10 @@
             "Megan Gay",
             "Max Mauff"
         ],
-        "genre": [
-            "Comedy,Drama,Music"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
         ],
         "decade": 2000
     },
@@ -2161,8 +2305,10 @@
             "Dorian Harewood",
             "Bronwen Mantel"
         ],
-        "genre": [
-            "Horror,Mystery,Thriller"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -2188,8 +2334,10 @@
             "Erica Hubbard",
             "Simon Helberg"
         ],
-        "genre": [
-            "Comedy,Family,Romance"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -2214,8 +2362,10 @@
             "Maura Tierney",
             "Stanley Anderson"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 1990
     },
@@ -2236,8 +2386,9 @@
             "Michael Rapaport",
             "Jeffrey Donovan"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -2258,8 +2409,9 @@
             "Jadwiga Jankowska-Cieslak",
             "Wojciech Klata"
         ],
-        "genre": [
-            "Biography,Drama"
+        "genres": [
+            "Biography",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -2280,8 +2432,10 @@
             "Moises Arias",
             "Gaius Charles"
         ],
-        "genre": [
-            "Biography,Drama,History"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
         ],
         "decade": 2010
     },
@@ -2301,7 +2455,7 @@
             "Joanna Kasperska",
             "Jaroslava Schallerová"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1970
@@ -2329,8 +2483,10 @@
             "Harry Dean Stanton",
             "Tim Thomerson"
         ],
-        "genre": [
-            "Adventure,Comedy,Drama"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -2353,8 +2509,10 @@
             "Elijah Kelley",
             "Jerry Stiller"
         ],
-        "genre": [
-            "Comedy,Drama,Musical"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
         ],
         "decade": 2000
     },
@@ -2372,8 +2530,9 @@
             "Mervyn Drake",
             "Margie McCrae"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1980
     },
@@ -2397,8 +2556,10 @@
             "Derek Judge",
             "James Gaylyn"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -2419,7 +2580,7 @@
             "John C. Reilly",
             "Crispin Glover"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -2441,8 +2602,10 @@
             "Zena Grey",
             "Josh Peck"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -2468,8 +2631,10 @@
             "Max Martini",
             "Clayne Crawford"
         ],
-        "genre": [
-            "Action,Drama,War"
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
         ],
         "decade": 2000
     },
@@ -2495,8 +2660,10 @@
             "Serena Gordon",
             "Simon Kunz"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -2514,8 +2681,10 @@
             "Richard Haydn",
             "Tarita"
         ],
-        "genre": [
-            "Adventure,Drama,History"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
         ],
         "decade": 1960
     },
@@ -2534,8 +2703,10 @@
             "Oliver James",
             "Christina Cole"
         ],
-        "genre": [
-            "Comedy,Drama,Family"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
         ],
         "decade": 2000
     },
@@ -2558,8 +2729,10 @@
             "Helen Carey",
             "Jack Gilpin"
         ],
-        "genre": [
-            "Crime,Drama,History"
+        "genres": [
+            "Crime",
+            "Drama",
+            "History"
         ],
         "decade": 2000
     },
@@ -2585,8 +2758,9 @@
             "Pramod Moutho",
             "Subhash Ghai"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -2603,7 +2777,7 @@
             "Somlek Sakdikul",
             "Petchtai Wongkamlao"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -2623,8 +2797,10 @@
             "Om Puri",
             "Pavan Malhotra"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -2645,8 +2821,10 @@
             "Lochlyn Munro",
             "Dwayne Hickman"
         ],
-        "genre": [
-            "Comedy,Music,Romance"
+        "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -2662,8 +2840,10 @@
             "Lyriq Bent",
             "Ernie Hudson"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2010
     },
@@ -2683,8 +2863,10 @@
             "Chachchaya Chalemphol",
             "Kachormsak Naruepatr"
         ],
-        "genre": [
-            "Horror,Mystery,Thriller"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -2706,8 +2888,10 @@
             "Jake Hoffman",
             "Jennifer Coolidge"
         ],
-        "genre": [
-            "Comedy,Drama,Fantasy"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -2724,8 +2908,10 @@
             "Madan Puri",
             "Brahm Bhardwaj"
         ],
-        "genre": [
-            "Action,Drama,Musical"
+        "genres": [
+            "Action",
+            "Drama",
+            "Musical"
         ],
         "decade": 1970
     },
@@ -2748,8 +2934,10 @@
             "Bill Allen",
             "Brad Pitt"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1980
     },
@@ -2759,8 +2947,10 @@
             "John Huston"
         ],
         "cast": [],
-        "genre": [
-            "Documentary,Short,War"
+        "genres": [
+            "Documentary",
+            "Short",
+            "War"
         ],
         "decade": 1940
     },
@@ -2783,8 +2973,9 @@
             "Laura Kightlinger",
             "Leila Arcieri"
         ],
-        "genre": [
-            "Comedy,Family"
+        "genres": [
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -2808,8 +2999,10 @@
             "Fred Willard",
             "Wallace Shawn"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -2830,8 +3023,10 @@
             "Kevin Rees",
             "Andrew Hefler"
         ],
-        "genre": [
-            "Action,Adventure,Fantasy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ],
         "decade": 2010
     },
@@ -2852,8 +3047,9 @@
             "Jodie Foster",
             "Alfred Lutter"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -2875,7 +3071,7 @@
             "Nathan Gamble",
             "Mohamed Akhzam"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -2895,8 +3091,10 @@
             "Niecy Nash",
             "Will Patton"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -2912,8 +3110,9 @@
             "Farida Jalal",
             "Chandrachur Singh"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -2934,8 +3133,9 @@
             "Jagdeep",
             "Sharat Saxena"
         ],
-        "genre": [
-            "Action,Crime"
+        "genres": [
+            "Action",
+            "Crime"
         ],
         "decade": 1980
     },
@@ -2958,7 +3158,7 @@
             "Pauline Lynch",
             "Shirley Henderson"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -2980,8 +3180,10 @@
             "Wayne Knight",
             "Alex D. Linz"
         ],
-        "genre": [
-            "Adventure,Animation,Family"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Family"
         ],
         "decade": 1990
     },
@@ -3002,8 +3204,10 @@
             "Julie Kent",
             "Ilia Kulik"
         ],
-        "genre": [
-            "Drama,Music,Romance"
+        "genres": [
+            "Drama",
+            "Music",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -3020,8 +3224,10 @@
             "Helen",
             "Jagdeep"
         ],
-        "genre": [
-            "Crime,Mystery,Thriller"
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
         ],
         "decade": 1970
     },
@@ -3042,7 +3248,7 @@
             "Scott Bakula",
             "Sam Robards"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -3075,8 +3281,10 @@
             "Brian Stepanek",
             "Todd Cummings"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -3098,8 +3306,10 @@
             "Gordon Tootoosis",
             "Patrick Warburton"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -3120,8 +3330,10 @@
             "Sigourney Weaver",
             "William Hurt"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -3134,8 +3346,10 @@
             "Henry Fonda",
             "Jane Darwell"
         ],
-        "genre": [
-            "Documentary,Short,War"
+        "genres": [
+            "Documentary",
+            "Short",
+            "War"
         ],
         "decade": 1940
     },
@@ -3153,8 +3367,9 @@
             "Avtar Gill",
             "Mushtaq Khan"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -3178,8 +3393,10 @@
             "Isabella Rossellini",
             "Tom Sizemore"
         ],
-        "genre": [
-            "Adventure,Biography,Crime"
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Crime"
         ],
         "decade": 1990
     },
@@ -3200,8 +3417,9 @@
             "Nina Foch",
             "Keene Curtis"
         ],
-        "genre": [
-            "Drama,Thriller"
+        "genres": [
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -3220,8 +3438,9 @@
             "Saurabh Shukla",
             "Supriya Karnik"
         ],
-        "genre": [
-            "Musical,Romance"
+        "genres": [
+            "Musical",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -3244,8 +3463,10 @@
             "J. Michael Hunter",
             "Tom Hull"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 1980
     },
@@ -3266,8 +3487,9 @@
             "Kader Khan",
             "Jagdeep"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -3290,8 +3512,9 @@
             "Anupam Kher",
             "Madhavan"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -3316,8 +3539,10 @@
             "Steven Weber",
             "Tegan West"
         ],
-        "genre": [
-            "Action,Drama,Thriller"
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1980
     },
@@ -3338,7 +3563,7 @@
             "Dennis Hopper",
             "Edward Platt"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1950
@@ -3353,7 +3578,7 @@
             "Mark Cox",
             "Paul Riley"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1990
@@ -3376,7 +3601,7 @@
             "Cameron Mitchell",
             "Paul Stewart"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2010
@@ -3398,8 +3623,10 @@
             "Claire Smithies",
             "Clark Middleton"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -3420,8 +3647,10 @@
             "Emmy Rossum",
             "Spencer Treat Clark"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -3442,8 +3671,10 @@
             "Alec Baldwin",
             "Kevin Corrigan"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -3462,8 +3693,10 @@
             "Leticia Perdigón",
             "Enrique Rocha"
         ],
-        "genre": [
-            "Comedy,Drama,Family"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
         ],
         "decade": 2000
     },
@@ -3484,8 +3717,10 @@
             "Zygmunt Zintel",
             "Henryk Bista"
         ],
-        "genre": [
-            "Horror,Mystery,Thriller"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
         ],
         "decade": 1980
     },
@@ -3505,8 +3740,9 @@
             "Chloe Webb",
             "David Strathairn"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -3527,7 +3763,7 @@
             "John Slattery",
             "Marcia Gay Harden"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -3549,8 +3785,9 @@
             "Nicola Duffett",
             "Susie Lindeman"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -3571,8 +3808,10 @@
             "Robert Miano",
             "Zach Grenier"
         ],
-        "genre": [
-            "Biography,Crime,Drama"
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -3599,8 +3838,10 @@
             "Whoopi Goldberg",
             "David Spade"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -3621,7 +3862,7 @@
             "Aditya Bhattacharya",
             "Arif Zakaria"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -3643,8 +3884,10 @@
             "Rachel Weisz",
             "Nicholas Hutchison"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -3666,7 +3909,7 @@
             "Gilbert Gottfried",
             "Bernie Mac"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1990
@@ -3689,7 +3932,7 @@
             "Frank Wolff",
             "Lionel Stander"
         ],
-        "genre": [
+        "genres": [
             "Western"
         ],
         "decade": 1960
@@ -3712,8 +3955,9 @@
             "Charles Napier",
             "Will Ferrell"
         ],
-        "genre": [
-            "Adventure,Comedy"
+        "genres": [
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -3744,8 +3988,10 @@
             "Emily Watson",
             "James Wilby"
         ],
-        "genre": [
-            "Comedy,Drama,Mystery"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -3769,8 +4015,9 @@
             "Bill Morey",
             "Mary Fogarty"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -3794,8 +4041,9 @@
             "Randall Duk Kim",
             "Nona Gaye"
         ],
-        "genre": [
-            "Action,Sci-Fi"
+        "genres": [
+            "Action",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -3816,8 +4064,10 @@
             "Sam Raimi",
             "Harvey Korman"
         ],
-        "genre": [
-            "Comedy,Family,Fantasy"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
         ],
         "decade": 1990
     },
@@ -3837,8 +4087,9 @@
             "Gary Morgan",
             "Greg Lewis"
         ],
-        "genre": [
-            "Action,Sci-Fi"
+        "genres": [
+            "Action",
+            "Sci-Fi"
         ],
         "decade": 1970
     },
@@ -3860,8 +4111,10 @@
             "Brooklynn Proulx",
             "Alex Ferris"
         ],
-        "genre": [
-            "Drama,Fantasy,Romance"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -3882,8 +4135,10 @@
             "Nestor Serrano",
             "Julio Oscar Mechoso"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 1990
     },
@@ -3904,8 +4159,10 @@
             "Baby Gazala",
             "Akash Khurana"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -3924,8 +4181,10 @@
             "Raj Babbar",
             "Shabbir Khan"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -3946,8 +4205,10 @@
             "Tommy Redmond Hicks",
             "Cornell Royal"
         ],
-        "genre": [
-            "Drama,History,Romance"
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -3968,8 +4229,9 @@
             "Chopper Bernet",
             "Christopher Lawford"
         ],
-        "genre": [
-            "Action,Sci-Fi"
+        "genres": [
+            "Action",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -3981,8 +4243,9 @@
         "cast": [
             "Martin Lawrence"
         ],
-        "genre": [
-            "Comedy,Documentary"
+        "genres": [
+            "Comedy",
+            "Documentary"
         ],
         "decade": 2000
     },
@@ -4003,8 +4266,10 @@
             "John Shrapnel",
             "Donald Sumpter"
         ],
-        "genre": [
-            "Drama,History,Thriller"
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -4024,7 +4289,7 @@
             "Ashwin Chitale",
             "Jyoti Subhash"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -4045,8 +4310,10 @@
             "Vikram Gokhale",
             "Mumait Khan"
         ],
-        "genre": [
-            "Drama,Musical,Romance"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -4069,8 +4336,10 @@
             "Barbara Babcock",
             "Blair Brown"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -4090,8 +4359,10 @@
             "Ralph Richardson",
             "Jeffrey Rockland"
         ],
-        "genre": [
-            "Drama,Romance,War"
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
         ],
         "decade": 1960
     },
@@ -4117,7 +4388,7 @@
             "Bronson Pinchot",
             "Rob Reiner"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1990
@@ -4135,8 +4406,10 @@
             "Kiri Paramore",
             "Bill Hunter"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -4157,8 +4430,10 @@
             "Carol Cleveland",
             "Neil Innes"
         ],
-        "genre": [
-            "Adventure,Comedy,Fantasy"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
         ],
         "decade": 1970
     },
@@ -4179,8 +4454,10 @@
             "Len Cariou",
             "Whip Hubley"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -4199,8 +4476,10 @@
             "Halle Berry",
             "Bruce McGill"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 1990
     },
@@ -4221,8 +4500,10 @@
             "Cesar Gonzalez",
             "Rafael Montalvo"
         ],
-        "genre": [
-            "Comedy,Family,Sport"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Sport"
         ],
         "decade": 2000
     },
@@ -4243,8 +4524,10 @@
             "Michael Bacall",
             "Danielle Harris"
         ],
-        "genre": [
-            "Adventure,Drama,Family"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Family"
         ],
         "decade": 1990
     },
@@ -4265,8 +4548,9 @@
             "Mink Singh",
             "Siddharth"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -4287,8 +4571,10 @@
             "Lesley Sharp",
             "Jamie Foreman"
         ],
-        "genre": [
-            "Adventure,Family,Fantasy"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -4309,8 +4595,10 @@
             "Bill Irwin",
             "Mary Beth Hurt"
         ],
-        "genre": [
-            "Drama,Fantasy,Mystery"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -4333,8 +4621,9 @@
             "Smita Jaykar",
             "Tanaaz Currim Irani"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -4354,8 +4643,10 @@
             "Kevin Dillon",
             "Freddy Rodríguez"
         ],
-        "genre": [
-            "Action,Adventure,Drama"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -4372,8 +4663,9 @@
             "Tadeusz Pluciński",
             "Bogusz Bilewski"
         ],
-        "genre": [
-            "Drama,War"
+        "genres": [
+            "Drama",
+            "War"
         ],
         "decade": 1960
     },
@@ -4390,7 +4682,7 @@
             "Lau Hak-Suen",
             "Kwan Hoi-san"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1980
@@ -4412,8 +4704,9 @@
             "Amrish Puri",
             "Ramesh Deo"
         ],
-        "genre": [
-            "Action,Thriller"
+        "genres": [
+            "Action",
+            "Thriller"
         ],
         "decade": 1970
     },
@@ -4434,8 +4727,10 @@
             "François Chau",
             "Kevin Nash"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -4455,8 +4750,10 @@
             "Celia Weston",
             "Deborah Rush"
         ],
-        "genre": [
-            "Drama,Fantasy,Mystery"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -4478,8 +4775,10 @@
             "Rob Machado",
             "Sal Masekela"
         ],
-        "genre": [
-            "Animation,Comedy,Family"
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -4501,8 +4800,9 @@
             "Josh Server",
             "Ginny Schreiber"
         ],
-        "genre": [
-            "Comedy,Family"
+        "genres": [
+            "Comedy",
+            "Family"
         ],
         "decade": 1990
     },
@@ -4524,8 +4824,10 @@
             "Denise Dowse",
             "Debbi Morgan"
         ],
-        "genre": [
-            "Biography,Drama,Sport"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
         ],
         "decade": 2000
     },
@@ -4546,7 +4848,7 @@
             "Michael Roof",
             "Joe Don Baker"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -4571,8 +4873,9 @@
             "Manoj Joshi",
             "Anil Kapoor"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -4589,8 +4892,10 @@
             "Dhumal",
             "Kumkum"
         ],
-        "genre": [
-            "Crime,Drama,Romance"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
         ],
         "decade": 1950
     },
@@ -4617,7 +4922,7 @@
             "Marissa Jaret Winokur",
             "Dan Joffre"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -4639,8 +4944,10 @@
             "Alexander Strobele",
             "Holt McCallany"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -4659,8 +4966,9 @@
             "Cynthia Sikes",
             "Johnny Galecki"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -4679,8 +4987,10 @@
             "Tanuja",
             "Seema Biswas"
         ],
-        "genre": [
-            "Horror,Mystery,Thriller"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -4697,8 +5007,9 @@
             "Juhi Chawla",
             "Shayan Munshi"
         ],
-        "genre": [
-            "Comedy,Music"
+        "genres": [
+            "Comedy",
+            "Music"
         ],
         "decade": 2000
     },
@@ -4716,8 +5027,10 @@
             "James Drury",
             "Earl Holliman"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 1950
     },
@@ -4738,8 +5051,10 @@
             "Bela Bose",
             "Ratnamala"
         ],
-        "genre": [
-            "Comedy,Drama,Musical"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
         ],
         "decade": 1960
     },
@@ -4760,8 +5075,10 @@
             "Yan Hai",
             "De Ming Wang"
         ],
-        "genre": [
-            "Action,Adventure,Fantasy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -4786,8 +5103,10 @@
             "Jordan Fry",
             "Philip Wiegratz"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -4808,8 +5127,10 @@
             "Patrick Garrow",
             "Sasha Roiz"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -4828,8 +5149,10 @@
             "Brían F. O'Byrne",
             "Lily Rabe"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -4855,8 +5178,9 @@
             "Michelle Harrison",
             "Chiara Zanni"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -4881,8 +5205,10 @@
             "Johnny Simmons",
             "Ellen Wong"
         ],
-        "genre": [
-            "Action,Comedy,Fantasy"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
         ],
         "decade": 2010
     },
@@ -4903,8 +5229,9 @@
             "Kevork Malikyan",
             "Robert Eddison"
         ],
-        "genre": [
-            "Action,Adventure"
+        "genres": [
+            "Action",
+            "Adventure"
         ],
         "decade": 1980
     },
@@ -4928,8 +5255,10 @@
             "Viola Davis",
             "William Mapother"
         ],
-        "genre": [
-            "Drama,History,Thriller"
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -4952,8 +5281,10 @@
             "Malick Bowens",
             "Awaovieyi Agie"
         ],
-        "genre": [
-            "Action,Drama,Thriller"
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -4974,8 +5305,10 @@
             "Anjan Srivastav",
             "Rakesh Bedi"
         ],
-        "genre": [
-            "Comedy,Drama,Fantasy"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
         ],
         "decade": 1990
     },
@@ -4999,8 +5332,10 @@
             "Anna Chancellor",
             "Corin Redgrave"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -5021,8 +5356,9 @@
             "Daveigh Chase",
             "Shannon Cochran"
         ],
-        "genre": [
-            "Horror,Mystery"
+        "genres": [
+            "Horror",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -5051,8 +5387,10 @@
             "Mohan Joshi",
             "Anil Dhawan"
         ],
-        "genre": [
-            "Action,Comedy,Romance"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -5073,7 +5411,7 @@
             "Brendan Donaldson",
             "Annabel Armour"
         ],
-        "genre": [
+        "genres": [
             "Horror"
         ],
         "decade": 2000
@@ -5095,8 +5433,9 @@
             "Julie Christie",
             "Saffron Burrows"
         ],
-        "genre": [
-            "Drama,History"
+        "genres": [
+            "Drama",
+            "History"
         ],
         "decade": 2000
     },
@@ -5115,8 +5454,9 @@
             "Tori Kristiansen",
             "Tyra Kristiansen"
         ],
-        "genre": [
-            "Drama,Thriller"
+        "genres": [
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -5137,8 +5477,10 @@
             "Irina Apeksimova",
             "Lev Prygunov"
         ],
-        "genre": [
-            "Action,Adventure,Romance"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -5158,8 +5500,9 @@
             "Guillermo Fernandez",
             "Daniel Di Biase"
         ],
-        "genre": [
-            "Crime,Thriller"
+        "genres": [
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -5179,8 +5522,10 @@
             "Jayne Wisener",
             "Ed Sanders"
         ],
-        "genre": [
-            "Drama,Horror,Musical"
+        "genres": [
+            "Drama",
+            "Horror",
+            "Musical"
         ],
         "decade": 2000
     },
@@ -5195,8 +5540,10 @@
             "Navin Nischol",
             "Perizaad Zorabian"
         ],
-        "genre": [
-            "Comedy,Drama,Music"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
         ],
         "decade": 2000
     },
@@ -5218,8 +5565,10 @@
             "Henri Garcin",
             "William Abadie"
         ],
-        "genre": [
-            "Adventure,Comedy,Crime"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -5242,8 +5591,10 @@
             "Bonnie Hunt",
             "Cloris Leachman"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -5264,8 +5615,9 @@
             "Danny Woodburn",
             "Harland Williams"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -5286,8 +5638,9 @@
             "Ty Burrell",
             "Dan Aykroyd"
         ],
-        "genre": [
-            "Comedy,Sci-Fi"
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -5306,8 +5659,10 @@
             "Paul Michael Glaser",
             "Rachel Ticotin"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -5328,8 +5683,9 @@
             "Casey Affleck",
             "Scott Caan"
         ],
-        "genre": [
-            "Crime,Thriller"
+        "genres": [
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -5350,8 +5706,9 @@
             "Emmaline Henry",
             "Charles Grodin"
         ],
-        "genre": [
-            "Drama,Horror"
+        "genres": [
+            "Drama",
+            "Horror"
         ],
         "decade": 1960
     },
@@ -5375,8 +5732,10 @@
             "Tsuyoshi Takishita",
             "Lex Lang"
         ],
-        "genre": [
-            "Action,Adventure,Family"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
         ],
         "decade": 1990
     },
@@ -5397,8 +5756,10 @@
             "Jenna Fischer",
             "Fred Armisen"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -5419,8 +5780,9 @@
             "Juan Ramírez",
             "Alan Wilder"
         ],
-        "genre": [
-            "Horror,Thriller"
+        "genres": [
+            "Horror",
+            "Thriller"
         ],
         "decade": 1980
     },
@@ -5439,8 +5801,9 @@
             "Kurt Fuller",
             "Takayo Fischer"
         ],
-        "genre": [
-            "Biography,Drama"
+        "genres": [
+            "Biography",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -5455,7 +5818,7 @@
             "Michael Palin",
             "Connie Booth"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1970
@@ -5477,8 +5840,10 @@
             "Dean Goss",
             "Tony Alatis"
         ],
-        "genre": [
-            "Adventure,Comedy,Drama"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
         ],
         "decade": 1970
     },
@@ -5499,8 +5864,10 @@
             "Jack Kehler",
             "David Cross"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -5521,8 +5888,9 @@
             "Lena Headey",
             "Jenny Agutter"
         ],
-        "genre": [
-            "Comedy,Crime"
+        "genres": [
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -5541,7 +5909,7 @@
             "Lam Suet",
             "Kenneth Chan"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -5561,8 +5929,9 @@
             "K.N. Singh",
             "Randhir"
         ],
-        "genre": [
-            "Fantasy,Musical"
+        "genres": [
+            "Fantasy",
+            "Musical"
         ],
         "decade": 1960
     },
@@ -5582,8 +5951,10 @@
             "Jordan Chan",
             "Kenny Bee"
         ],
-        "genre": [
-            "Action,Comedy,Drama"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -5603,8 +5974,10 @@
             "Kurt Fuller",
             "Amy Poehler"
         ],
-        "genre": [
-            "Comedy,Romance,Sport"
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Sport"
         ],
         "decade": 2000
     },
@@ -5622,8 +5995,9 @@
             "Beatrice Winde",
             "Lonette McKee"
         ],
-        "genre": [
-            "Drama,Music"
+        "genres": [
+            "Drama",
+            "Music"
         ],
         "decade": 1970
     },
@@ -5644,8 +6018,9 @@
             "Wilza Lubis",
             "Nico Siahaan"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -5667,8 +6042,9 @@
             "Christine Baranski",
             "Lenore Harris"
         ],
-        "genre": [
-            "Drama,Music"
+        "genres": [
+            "Drama",
+            "Music"
         ],
         "decade": 1980
     },
@@ -5688,8 +6064,10 @@
             "Andrew McCarthy",
             "Martin Short"
         ],
-        "genre": [
-            "Action,Adventure,Drama"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -5711,8 +6089,9 @@
             "James Earl Jones",
             "Richard Harris"
         ],
-        "genre": [
-            "Action,Thriller"
+        "genres": [
+            "Action",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -5734,8 +6113,9 @@
             "Jennifer Irwin",
             "Tom Green"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -5752,8 +6132,10 @@
             "Smita Jaykar",
             "Gulshan Grover"
         ],
-        "genre": [
-            "Drama,Family,Music"
+        "genres": [
+            "Drama",
+            "Family",
+            "Music"
         ],
         "decade": 1990
     },
@@ -5772,8 +6154,9 @@
             "Gulshan Grover",
             "Monty Sharma"
         ],
-        "genre": [
-            "Family,Romance"
+        "genres": [
+            "Family",
+            "Romance"
         ],
         "decade": 1980
     },
@@ -5797,7 +6180,7 @@
             "John Turturro",
             "Kevin Nealon"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -5819,8 +6202,10 @@
             "Rob Corddry",
             "Dominique Saldaña"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -5839,8 +6224,10 @@
             "Robert Bailey Jr.",
             "Ian McShane"
         ],
-        "genre": [
-            "Animation,Drama,Family"
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
         ],
         "decade": 2000
     },
@@ -5862,8 +6249,10 @@
             "Paterson Joseph",
             "Yangzom Brauen"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -5879,8 +6268,10 @@
             "Esther Rolle",
             "Shelley Winters"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 1970
     },
@@ -5902,8 +6293,10 @@
             "David Vadim",
             "Eva Mendes"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -5924,8 +6317,10 @@
             "Cliff De Young",
             "Assumpta Serna"
         ],
-        "genre": [
-            "Drama,Fantasy,Horror"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
         ],
         "decade": 1990
     },
@@ -5947,8 +6342,10 @@
             "Bolo Yeung",
             "Peter Archer"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 1970
     },
@@ -5969,8 +6366,9 @@
             "Joe Don Baker",
             "John Finnegan"
         ],
-        "genre": [
-            "Drama,Sport"
+        "genres": [
+            "Drama",
+            "Sport"
         ],
         "decade": 1980
     },
@@ -5999,8 +6397,10 @@
             "Kotono Mitsuishi",
             "Satomi Koorogi"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 2000
     },
@@ -6017,8 +6417,9 @@
             "Paul Chun",
             "Kenneth Tsang"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -6038,8 +6439,10 @@
             "Michael Wright",
             "Veronica Cartwright"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 1990
     },
@@ -6057,7 +6460,7 @@
             "Giulia Michelini",
             "Carlos Kaspar"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -6078,8 +6481,9 @@
             "Kuo Hua Chang",
             "Feng Kuan"
         ],
-        "genre": [
-            "Action,Comedy"
+        "genres": [
+            "Action",
+            "Comedy"
         ],
         "decade": 1980
     },
@@ -6098,8 +6502,10 @@
             "Alan Hopgood",
             "Adrienne Pickering"
         ],
-        "genre": [
-            "Drama,Mystery,Sci-Fi"
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -6121,8 +6527,9 @@
             "Lance LeGault",
             "Judge Reinhold"
         ],
-        "genre": [
-            "Comedy,War"
+        "genres": [
+            "Comedy",
+            "War"
         ],
         "decade": 1980
     },
@@ -6142,8 +6549,10 @@
             "Pramod Moutho",
             "Mohnish Bahl"
         ],
-        "genre": [
-            "Action,Comedy,Drama"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -6162,8 +6571,10 @@
             "Jamie Harrold",
             "Serge Houde"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -6182,8 +6593,10 @@
             "Sue-Ann Leeds",
             "Laura Linney"
         ],
-        "genre": [
-            "Action,Adventure,Drama"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -6203,8 +6616,10 @@
             "Rip Torn",
             "Kevin Zegers"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -6224,7 +6639,7 @@
             "Luke Grimes",
             "Melissa Price"
         ],
-        "genre": [
+        "genres": [
             "Horror"
         ],
         "decade": 2000
@@ -6246,8 +6661,10 @@
             "Ethan Suplee",
             "Ray Liotta"
         ],
-        "genre": [
-            "Biography,Crime,Drama"
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -6265,8 +6682,10 @@
             "Jonathan Potts",
             "Colin Fox"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 1980
     },
@@ -6284,8 +6703,10 @@
             "Rick Warner",
             "Tom Wood"
         ],
-        "genre": [
-            "Biography,Drama,War"
+        "genres": [
+            "Biography",
+            "Drama",
+            "War"
         ],
         "decade": 1980
     },
@@ -6304,7 +6725,7 @@
             "Tanuja",
             "Supriya Pathak"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -6326,8 +6747,10 @@
             "Zach Grenier",
             "Camryn Grimes"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -6347,8 +6770,10 @@
             "Victor McGuire",
             "Jennifer Ellison"
         ],
-        "genre": [
-            "Drama,Musical,Romance"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -6370,8 +6795,10 @@
             "Regina Hall",
             "Joyce Walker"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -6397,8 +6824,9 @@
             "John Dunsworth",
             "Patrick Roach"
         ],
-        "genre": [
-            "Comedy,Crime"
+        "genres": [
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -6420,8 +6848,10 @@
             "Nate Torrence",
             "Bill Murray"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -6445,8 +6875,10 @@
             "Junko Iwao",
             "Mugihito"
         ],
-        "genre": [
-            "Action,Animation,Drama"
+        "genres": [
+            "Action",
+            "Animation",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -6467,8 +6899,10 @@
             "Arpana Choudhry",
             "Helen"
         ],
-        "genre": [
-            "Action,Crime,Thriller"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
         ],
         "decade": 1970
     },
@@ -6486,8 +6920,10 @@
             "Kari Wahlgren",
             "Crispin Freeman"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 2000
     },
@@ -6508,8 +6944,9 @@
             "Vinnie Jones",
             "Lenny McLean"
         ],
-        "genre": [
-            "Comedy,Crime"
+        "genres": [
+            "Comedy",
+            "Crime"
         ],
         "decade": 1990
     },
@@ -6530,8 +6967,10 @@
             "Elliott Gould",
             "Samuel Gould"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -6554,8 +6993,10 @@
             "Corey Johnson",
             "Kevin Trainor"
         ],
-        "genre": [
-            "Action,Fantasy,Horror"
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Horror"
         ],
         "decade": 2000
     },
@@ -6576,8 +7017,10 @@
             "Jeffrey Dean Morgan",
             "Dean Winters"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -6596,8 +7039,10 @@
             "Yashpal Sharma",
             "Sheeba"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -6616,8 +7061,10 @@
             "James Woods",
             "Steve Zahn"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -6636,8 +7083,10 @@
             "Morgan Lam",
             "Ailen Sit"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 1990
     },
@@ -6658,8 +7107,9 @@
             "Ben Johnson",
             "Harry Dean Stanton"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -6685,8 +7135,10 @@
             "Bernard Spear",
             "Stanley Unwin"
         ],
-        "genre": [
-            "Adventure,Family,Fantasy"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
         ],
         "decade": 1960
     },
@@ -6715,8 +7167,9 @@
             "Michael Clarke Duncan",
             "Michael Madsen"
         ],
-        "genre": [
-            "Crime,Thriller"
+        "genres": [
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -6737,8 +7190,9 @@
             "Yunus Parvez",
             "Umesh Shukla"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -6757,8 +7211,10 @@
             "Jennifer L. Yen",
             "Kim Strauss"
         ],
-        "genre": [
-            "Action,Adventure,Drama"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -6784,7 +7240,7 @@
             "Jason Robards",
             "Melora Walters"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -6806,8 +7262,9 @@
             "Ric Young",
             "Chua Kah Joo"
         ],
-        "genre": [
-            "Action,Adventure"
+        "genres": [
+            "Action",
+            "Adventure"
         ],
         "decade": 1980
     },
@@ -6826,8 +7283,9 @@
             "Gulshan Grover",
             "Roopesh Kumar"
         ],
-        "genre": [
-            "Action,Thriller"
+        "genres": [
+            "Action",
+            "Thriller"
         ],
         "decade": 1980
     },
@@ -6848,7 +7306,7 @@
             "Lisa Summerour",
             "Obba Babatundé"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -6872,8 +7330,10 @@
             "Patrick Stewart",
             "Jim Cummings"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 2000
     },
@@ -6892,8 +7352,10 @@
             "Willeke van Ammelrooy",
             "Christopher Plummer"
         ],
-        "genre": [
-            "Drama,Fantasy,Romance"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -6914,8 +7376,10 @@
             "John Cleese",
             "Jon Lovitz"
         ],
-        "genre": [
-            "Adventure,Animation,Family"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Family"
         ],
         "decade": 1990
     },
@@ -6936,8 +7400,9 @@
             "Roger Guenveur Smith",
             "Amanda Detmer"
         ],
-        "genre": [
-            "Horror,Thriller"
+        "genres": [
+            "Horror",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -6960,8 +7425,10 @@
             "Nick Cannon",
             "Kevin James"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -6980,8 +7447,9 @@
             "Bernadette L. Clarke",
             "Khalil Kain"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -6997,8 +7465,9 @@
             "Chung Ping Geung",
             "Anglie Leung"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -7012,7 +7481,7 @@
             "Christy Chung",
             "Ng Man-Tat"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1990
@@ -7032,8 +7501,9 @@
             "Michael Culkin",
             "Stanley DeSantis"
         ],
-        "genre": [
-            "Horror,Thriller"
+        "genres": [
+            "Horror",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -7052,8 +7522,9 @@
             "Pauline Quirke",
             "Kay Lyon"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -7075,8 +7546,9 @@
             "Raj Premi",
             "Supriya Karnik"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -7097,8 +7569,9 @@
             "Dhritiman Chatterjee",
             "Manoj Joshi"
         ],
-        "genre": [
-            "Biography,Drama"
+        "genres": [
+            "Biography",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7121,8 +7594,10 @@
             "Orlando Bloom",
             "Hugo Weaving"
         ],
-        "genre": [
-            "Adventure,Drama,Fantasy"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -7141,7 +7616,7 @@
             "Daya Shankar Pandey",
             "Farrukh Jaffar"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -7160,8 +7635,10 @@
             "Sheng Fu",
             "Kara Hui"
         ],
-        "genre": [
-            "Action,Comedy,Drama"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -7182,8 +7659,9 @@
             "Gary Lewis",
             "Stephen Graham"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7204,8 +7682,10 @@
             "Archana Puran Singh",
             "Sharat Saxena"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7226,8 +7706,10 @@
             "Frank John Hughes",
             "Steve Eastin"
         ],
-        "genre": [
-            "Biography,Crime,Drama"
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7249,7 +7731,7 @@
             "Jeff Corey",
             "Theo Marcuse"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1960
@@ -7271,8 +7753,10 @@
             "Jane Adams",
             "Gordon MacDonald"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7291,8 +7775,10 @@
             "T.V. Carpio",
             "Spencer Liff"
         ],
-        "genre": [
-            "Drama,Fantasy,History"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "History"
         ],
         "decade": 2000
     },
@@ -7302,8 +7788,10 @@
             "Stuart Heisler"
         ],
         "cast": [],
-        "genre": [
-            "Documentary,Drama,War"
+        "genres": [
+            "Documentary",
+            "Drama",
+            "War"
         ],
         "decade": 1940
     },
@@ -7322,8 +7810,9 @@
             "Tanuja",
             "Amrit Pal"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -7345,8 +7834,10 @@
             "Jonah Hill",
             "Jimmy Bennett"
         ],
-        "genre": [
-            "Comedy,Family,Fantasy"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -7367,8 +7858,10 @@
             "Ashwin Kaushal",
             "Satish Shah"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -7390,7 +7883,7 @@
             "Will Ferrell",
             "Jason Lee"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -7410,8 +7903,9 @@
             "Claudette Maillé",
             "Pilar Aranda"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -7432,8 +7926,10 @@
             "Ravi Baswani",
             "Naseeruddin Shah"
         ],
-        "genre": [
-            "Comedy,Drama,Music"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
         ],
         "decade": 1990
     },
@@ -7453,8 +7949,10 @@
             "Matthias Brenner",
             "Charly Hübner"
         ],
-        "genre": [
-            "Drama,Mystery,Thriller"
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -7480,8 +7978,9 @@
             "Joan Blondell",
             "Frankie Avalon"
         ],
-        "genre": [
-            "Musical,Romance"
+        "genres": [
+            "Musical",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -7500,8 +7999,9 @@
             "Jayshree T.",
             "Johny Lever"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -7522,8 +8022,10 @@
             "José Pérez",
             "Victor Rivers"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -7546,8 +8048,10 @@
             "Cara Seymour",
             "Guinevere Turner"
         ],
-        "genre": [
-            "Comedy,Crime,Drama"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7563,8 +8067,9 @@
         "cast": [
             "Burgess Meredith"
         ],
-        "genre": [
-            "Documentary,War"
+        "genres": [
+            "Documentary",
+            "War"
         ],
         "decade": 1940
     },
@@ -7585,8 +8090,9 @@
             "Elizabeth Franz",
             "René Lavan"
         ],
-        "genre": [
-            "Comedy,Family"
+        "genres": [
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -7603,8 +8109,10 @@
             "Philip Bosco",
             "Jane Sibbett"
         ],
-        "genre": [
-            "Comedy,Family,Romance"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -7623,8 +8131,9 @@
             "Dilip Joshi",
             "Govind Namdeo"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -7641,8 +8150,10 @@
             "Michael Caton",
             "Peter McCauley"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -7659,7 +8170,7 @@
             "Sadiya Siddiqui",
             "Kamini Khanna"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -7683,7 +8194,7 @@
             "David Walliams",
             "Larry Wilmore"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2010
@@ -7699,8 +8210,9 @@
             "Cedric the Entertainer",
             "Bernie Mac"
         ],
-        "genre": [
-            "Comedy,Documentary"
+        "genres": [
+            "Comedy",
+            "Documentary"
         ],
         "decade": 2000
     },
@@ -7725,7 +8237,7 @@
             "Sohail Khan",
             "Vivek Oberoi"
         ],
-        "genre": [
+        "genres": [
             "Horror"
         ],
         "decade": 2000
@@ -7752,8 +8264,9 @@
             "Patrick Warburton",
             "Jamie Kennedy"
         ],
-        "genre": [
-            "Horror,Mystery"
+        "genres": [
+            "Horror",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -7771,8 +8284,9 @@
             "Aditya Lakhia",
             "Shri Vallabh Vyas"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7795,8 +8309,10 @@
             "Kwok Kuen Chan",
             "Qiu Yuen"
         ],
-        "genre": [
-            "Action,Comedy,Fantasy"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -7817,8 +8333,10 @@
             "Jon Seda",
             "Yul Vazquez"
         ],
-        "genre": [
-            "Action,Comedy,Crime"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -7839,8 +8357,9 @@
             "Charlie Murphy",
             "Brooke D'Orsay"
         ],
-        "genre": [
-            "Comedy,Crime"
+        "genres": [
+            "Comedy",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -7862,8 +8381,9 @@
             "Mesut Çakarli",
             "Zeynep Tokuş"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -7882,7 +8402,7 @@
             "Preeti Ganguli",
             "Sudha Shivpuri"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1970
@@ -7905,8 +8425,10 @@
             "Lee Majors",
             "John Cho"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -7927,8 +8449,10 @@
             "Ricky Jay",
             "Zach Galifianakis"
         ],
-        "genre": [
-            "Comedy,Crime,Romance"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -7949,8 +8473,10 @@
             "Raquel Alessi",
             "Laurence Breuls"
         ],
-        "genre": [
-            "Action,Fantasy,Thriller"
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -7971,8 +8497,10 @@
             "Dermot Mulroney",
             "Chloë Sevigny"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -7992,8 +8520,10 @@
             "Michael Caine",
             "Fred Savage"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -8014,8 +8544,10 @@
             "Josh Stamberg",
             "Matthew Sussman"
         ],
-        "genre": [
-            "Comedy,Fantasy,Romance"
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -8031,8 +8563,10 @@
             "Hugh Laurie",
             "Nathan Lane"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 1990
     },
@@ -8053,8 +8587,9 @@
             "Gyu-su Jeong",
             "Dal-su Oh"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -8077,8 +8612,9 @@
             "Steven Prince",
             "Martin Scorsese"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 1970
     },
@@ -8094,8 +8630,9 @@
             "Rosamund Kwan",
             "Maggie Cheung"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 1980
     },
@@ -8112,7 +8649,7 @@
             "Paintal",
             "Arvind Deshpande"
         ],
-        "genre": [
+        "genres": [
             "Romance"
         ],
         "decade": 1980
@@ -8137,8 +8674,10 @@
             "Gugu Nxumalo",
             "Tu Nokwe"
         ],
-        "genre": [
-            "Action,Biography,Drama"
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -8155,8 +8694,10 @@
             "Robert Axelrod",
             "Robert V. Barron"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 1980
     },
@@ -8177,8 +8718,10 @@
             "Gulshan Grover",
             "Amin Hajee"
         ],
-        "genre": [
-            "Comedy,Crime,Thriller"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -8199,8 +8742,10 @@
             "Meagan Good",
             "Brian White"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -8222,8 +8767,10 @@
             "Doug Savant",
             "Malcolm Danare"
         ],
-        "genre": [
-            "Action,Sci-Fi,Thriller"
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -8246,8 +8793,9 @@
             "Lambert Wilson",
             "Nona Gaye"
         ],
-        "genre": [
-            "Action,Sci-Fi"
+        "genres": [
+            "Action",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -8270,8 +8818,9 @@
             "Jon Reep",
             "Missi Pyle"
         ],
-        "genre": [
-            "Adventure,Comedy"
+        "genres": [
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -8292,8 +8841,10 @@
             "Arabella Field",
             "Tzi Ma"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -8313,8 +8864,10 @@
             "Alan Oppenheimer",
             "Tom Kane"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 2000
     },
@@ -8335,7 +8888,7 @@
             "Tiku Talsania",
             "Kader Khan"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 1990
@@ -8358,8 +8911,9 @@
             "Crystal Lowe",
             "Amanda Crew"
         ],
-        "genre": [
-            "Horror,Thriller"
+        "genres": [
+            "Horror",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -8381,8 +8935,10 @@
             "Larry King",
             "Ray Liotta"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -8396,8 +8952,10 @@
             "Eric Clapton",
             "Billy Cox"
         ],
-        "genre": [
-            "Biography,Documentary,Music"
+        "genres": [
+            "Biography",
+            "Documentary",
+            "Music"
         ],
         "decade": 1970
     },
@@ -8415,8 +8973,9 @@
             "Li Wang",
             "Ke Chu"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1980
     },
@@ -8430,8 +8989,9 @@
             "Brad Davis",
             "Sam Behrens"
         ],
-        "genre": [
-            "Biography,Drama"
+        "genres": [
+            "Biography",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -8452,8 +9012,10 @@
             "Alexa PenaVega",
             "Daryl Sabara"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -8474,8 +9036,10 @@
             "Victoria Hamilton",
             "Hugh Bonneville"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -8506,8 +9070,10 @@
             "Jeremy Piven",
             "Brendan Sexton III"
         ],
-        "genre": [
-            "Drama,History,War"
+        "genres": [
+            "Drama",
+            "History",
+            "War"
         ],
         "decade": 2000
     },
@@ -8528,8 +9094,10 @@
             "Bob Gunton",
             "Josh Stamberg"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -8547,8 +9115,9 @@
             "Mukesh Khanna",
             "Harish Patel"
         ],
-        "genre": [
-            "Action,Romance"
+        "genres": [
+            "Action",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -8571,8 +9140,10 @@
             "Friedrich von Thun",
             "Andrzej Seweryn"
         ],
-        "genre": [
-            "Biography,Drama,History"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
         ],
         "decade": 1990
     },
@@ -8593,8 +9164,10 @@
             "Dorothy Gordon",
             "Rita Tuckett"
         ],
-        "genre": [
-            "Comedy,Crime,Drama"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -8608,8 +9181,10 @@
             "John Paul Tremblay",
             "John Dunsworth"
         ],
-        "genre": [
-            "Comedy,Drama,Short"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Short"
         ],
         "decade": 1990
     },
@@ -8637,8 +9212,10 @@
             "Jessica Carlson",
             "Kristen Schaal"
         ],
-        "genre": [
-            "Action,Adventure,Fantasy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -8663,8 +9240,10 @@
             "Herb Vigran",
             "Dave Madden"
         ],
-        "genre": [
-            "Animation,Family,Musical"
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
         ],
         "decade": 1970
     },
@@ -8685,8 +9264,9 @@
             "David Abraham",
             "Asrani"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 1970
     },
@@ -8706,8 +9286,9 @@
             "Ryan Reynolds",
             "Fred Willard"
         ],
-        "genre": [
-            "Adventure,Comedy"
+        "genres": [
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -8726,8 +9307,10 @@
             "Matthew Harbour",
             "William Fichtner"
         ],
-        "genre": [
-            "Action,Drama,Sci-Fi"
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -8745,8 +9328,9 @@
             "Asrani",
             "Shehzad Khan"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -8765,8 +9349,10 @@
             "Byron Keith",
             "Billy House"
         ],
-        "genre": [
-            "Crime,Drama,Film-Noir"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
         ],
         "decade": 1940
     },
@@ -8787,8 +9373,9 @@
             "Jefechander Suplino",
             "Alice Braga"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -8807,8 +9394,9 @@
             "Madan Puri",
             "Helen"
         ],
-        "genre": [
-            "Crime,Thriller"
+        "genres": [
+            "Crime",
+            "Thriller"
         ],
         "decade": 1960
     },
@@ -8829,8 +9417,9 @@
             "Cheryl Burr",
             "Aaron Dugger"
         ],
-        "genre": [
-            "Comedy,Romance"
+        "genres": [
+            "Comedy",
+            "Romance"
         ],
         "decade": 1980
     },
@@ -8857,8 +9446,10 @@
             "Steve Buscemi",
             "Tracy Morgan"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -8879,8 +9470,10 @@
             "Yancey Arias",
             "Orlando Jones"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -8901,8 +9494,10 @@
             "Megan Nicol",
             "Bruce Hopkins"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -8918,8 +9513,9 @@
             "Hu Chin",
             "Nan Chiang"
         ],
-        "genre": [
-            "Action,Crime"
+        "genres": [
+            "Action",
+            "Crime"
         ],
         "decade": 1970
     },
@@ -8929,7 +9525,7 @@
             "Jennie Livingston"
         ],
         "cast": [],
-        "genre": [
+        "genres": [
             "Documentary"
         ],
         "decade": 1990
@@ -8950,8 +9546,10 @@
             "Lois Maxwell",
             "Cec Linder"
         ],
-        "genre": [
-            "Crime,Drama,Romance"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
         ],
         "decade": 1960
     },
@@ -8972,8 +9570,10 @@
             "Paris Themmen",
             "Ursula Reit"
         ],
-        "genre": [
-            "Family,Fantasy,Musical"
+        "genres": [
+            "Family",
+            "Fantasy",
+            "Musical"
         ],
         "decade": 1970
     },
@@ -8997,8 +9597,10 @@
             "Bob Saget",
             "Jack Osbourne"
         ],
-        "genre": [
-            "Comedy,Crime,Family"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Family"
         ],
         "decade": 2000
     },
@@ -9017,8 +9619,10 @@
             "Piu Dutt",
             "Samrat Mukherjee"
         ],
-        "genre": [
-            "Comedy,Drama,Family"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
         ],
         "decade": 2000
     },
@@ -9039,8 +9643,10 @@
             "Gordon MacDonald",
             "Daniella Van Graas"
         ],
-        "genre": [
-            "Crime,Horror,Mystery"
+        "genres": [
+            "Crime",
+            "Horror",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -9056,8 +9662,9 @@
             "Wu Chi Liu",
             "Yang Chiang"
         ],
-        "genre": [
-            "Action,Drama"
+        "genres": [
+            "Action",
+            "Drama"
         ],
         "decade": 1970
     },
@@ -9069,8 +9676,9 @@
         "cast": [
             "Wong Jing"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -9090,8 +9698,10 @@
             "Patrick Bauchau",
             "Paul Schulze"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -9109,8 +9719,9 @@
             "Rita Rani Kaul",
             "Malika"
         ],
-        "genre": [
-            "Drama,Family"
+        "genres": [
+            "Drama",
+            "Family"
         ],
         "decade": 1980
     },
@@ -9127,8 +9738,9 @@
             "Dilip Prabhavalkar",
             "Avtar Gill"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -9146,8 +9758,10 @@
             "Jennifer Coolidge",
             "Jay Leno"
         ],
-        "genre": [
-            "Animation,Comedy,Family"
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
         ],
         "decade": 2000
     },
@@ -9157,7 +9771,7 @@
             "Ashim Ahluwalia"
         ],
         "cast": [],
-        "genre": [
+        "genres": [
             "Documentary"
         ],
         "decade": 2000
@@ -9175,7 +9789,7 @@
             "Om Shivpuri",
             "Dina Pathak"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1970
@@ -9196,8 +9810,10 @@
             "Rajpal Yadav",
             "Shakti Kapoor"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -9216,8 +9832,9 @@
             "Igor Jijikine",
             "Shia LaBeouf"
         ],
-        "genre": [
-            "Action,Adventure"
+        "genres": [
+            "Action",
+            "Adventure"
         ],
         "decade": 2000
     },
@@ -9237,8 +9854,10 @@
             "S.N. Banerjee",
             "Keshto Mukherjee"
         ],
-        "genre": [
-            "Comedy,Drama,Family"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
         ],
         "decade": 1980
     },
@@ -9258,8 +9877,10 @@
             "Anne Whitfield",
             "George Chakiris"
         ],
-        "genre": [
-            "Comedy,Musical,Romance"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
         ],
         "decade": 1950
     },
@@ -9278,8 +9899,9 @@
             "Kevin McCarthy",
             "Markus Flanagan"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -9299,8 +9921,9 @@
             "Hulk Hogan",
             "Ian Fried"
         ],
-        "genre": [
-            "Drama,Sport"
+        "genres": [
+            "Drama",
+            "Sport"
         ],
         "decade": 1980
     },
@@ -9316,8 +9939,10 @@
             "Chung-wai Lee",
             "Ruby Wong"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -9338,7 +9963,7 @@
             "Fung Hak-On",
             "Jamie Luk"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -9359,8 +9984,10 @@
             "Michael J. Pagan",
             "Robert Joy"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -9381,8 +10008,9 @@
             "Marlon Brando",
             "Kal Penn"
         ],
-        "genre": [
-            "Action,Sci-Fi"
+        "genres": [
+            "Action",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -9413,8 +10041,10 @@
             "Derrick O'Connor",
             "Jared Leto"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -9435,8 +10065,10 @@
             "Elizabeth Hurley",
             "Will Ferrell"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -9461,8 +10093,10 @@
             "Larry Lam",
             "Geoff Wong"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -9485,7 +10119,7 @@
             "Jerry Matz",
             "Lisa Emery"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -9509,8 +10143,9 @@
             "Jerry Minor",
             "Matt Besser"
         ],
-        "genre": [
-            "Comedy,Drama"
+        "genres": [
+            "Comedy",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -9527,7 +10162,7 @@
             "James Handy",
             "Kyle Chandler"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -9548,8 +10183,9 @@
             "Robby Tumewu",
             "Jonathan Mulia"
         ],
-        "genre": [
-            "Biography,Drama"
+        "genres": [
+            "Biography",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -9575,8 +10211,10 @@
             "Colin Salmon",
             "Samantha Bond"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 2000
     },
@@ -9596,8 +10234,10 @@
             "Shakti Kapoor",
             "Johnny Lever"
         ],
-        "genre": [
-            "Comedy,Drama,Musical"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
         ],
         "decade": 2000
     },
@@ -9618,8 +10258,9 @@
             "Josh Mostel",
             "Tom Aldredge"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -9640,8 +10281,10 @@
             "Vijay Raaz",
             "Rajpal Yadav"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 2000
     },
@@ -9662,8 +10305,10 @@
             "Andree Bernard",
             "Jim Broadbent"
         ],
-        "genre": [
-            "Crime,Drama,Romance"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -9684,8 +10329,10 @@
             "Sofia Eng",
             "Bai Ling"
         ],
-        "genre": [
-            "Action,Comedy,Sci-Fi"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
         ],
         "decade": 1990
     },
@@ -9699,8 +10346,10 @@
             "James Stewart",
             "Lloyd Bridges"
         ],
-        "genre": [
-            "Documentary,History,Short"
+        "genres": [
+            "Documentary",
+            "History",
+            "Short"
         ],
         "decade": 1940
     },
@@ -9721,8 +10370,10 @@
             "Nayampally",
             "Sulochana Chatterjee"
         ],
-        "genre": [
-            "Drama,Musical,Romance"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
         ],
         "decade": 1960
     },
@@ -9743,8 +10394,10 @@
             "Keith David",
             "Philip Baker Hall"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -9765,8 +10418,10 @@
             "Jane Hallaren",
             "Anthony R. Jones"
         ],
-        "genre": [
-            "Comedy,Drama,Family"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
         ],
         "decade": 1990
     },
@@ -9782,8 +10437,9 @@
             "Jeetendra",
             "Rishi Kapoor"
         ],
-        "genre": [
-            "Horror,Mystery"
+        "genres": [
+            "Horror",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -9807,8 +10463,10 @@
             "Tony Todd",
             "Jon Polito"
         ],
-        "genre": [
-            "Action,Drama,Fantasy"
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
         ],
         "decade": 1990
     },
@@ -9829,8 +10487,10 @@
             "Roberta Maxwell",
             "Donovan Scott"
         ],
-        "genre": [
-            "Adventure,Comedy,Family"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
         ],
         "decade": 1980
     },
@@ -9853,8 +10513,9 @@
             "Alex Papps",
             "Vassili Zappa"
         ],
-        "genre": [
-            "Drama,Romance"
+        "genres": [
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -9875,8 +10536,10 @@
             "Terence J. Rotolo",
             "Eddie Frierson"
         ],
-        "genre": [
-            "Action,Adventure,Crime"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
         ],
         "decade": 2000
     },
@@ -9896,8 +10559,10 @@
             "John Cleese",
             "Maria Grazia Cucinotta"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -9911,8 +10576,9 @@
             "Patsy Garrett",
             "Cynthia Smith"
         ],
-        "genre": [
-            "Family,Short"
+        "genres": [
+            "Family",
+            "Short"
         ],
         "decade": 1970
     },
@@ -9932,8 +10598,10 @@
             "Kulbhushan Kharbanda",
             "Abeer Abrar"
         ],
-        "genre": [
-            "Action,Drama,History"
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
         ],
         "decade": 2000
     },
@@ -9951,8 +10619,10 @@
             "Thomas Gibson",
             "Alan Cumming"
         ],
-        "genre": [
-            "Comedy,Family,Romance"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -9973,8 +10643,10 @@
             "Amrit Pal",
             "Arun Bali"
         ],
-        "genre": [
-            "Action,Crime,Drama"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -9995,8 +10667,10 @@
             "Mindy Sterling",
             "Anthony Hopkins"
         ],
-        "genre": [
-            "Comedy,Family,Fantasy"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -10017,8 +10691,10 @@
             "Suhasini Mulay",
             "Ahmed Khan"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -10040,8 +10716,10 @@
             "Prateik Babbar",
             "Ratna Pathak Shah"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -10056,8 +10734,9 @@
             "Natasha",
             "Rati Agnihotri"
         ],
-        "genre": [
-            "Horror,Mystery"
+        "genres": [
+            "Horror",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -10077,8 +10756,10 @@
             "Sunny Singh",
             "Gulshan Bawra"
         ],
-        "genre": [
-            "Comedy,Drama,Musical"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
         ],
         "decade": 1990
     },
@@ -10100,7 +10781,7 @@
             "William Russ",
             "Guy Torry"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -10122,8 +10803,10 @@
             "Desmond Llewelyn",
             "Vincent Schiavelli"
         ],
-        "genre": [
-            "Action,Adventure,Thriller"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -10142,8 +10825,10 @@
             "Victor Argo",
             "George Memmoli"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1970
     },
@@ -10159,8 +10844,10 @@
             "Peter Dinklage",
             "Simon Woods"
         ],
-        "genre": [
-            "Comedy,Fantasy,Romance"
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -10178,8 +10865,10 @@
             "Satish Shah",
             "Akhilendra Mishra"
         ],
-        "genre": [
-            "Comedy,Drama,Family"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
         ],
         "decade": 2000
     },
@@ -10198,8 +10887,10 @@
             "Raj Mehra",
             "Iftekhar"
         ],
-        "genre": [
-            "Drama,Musical,Romance"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
         ],
         "decade": 1960
     },
@@ -10222,8 +10913,9 @@
             "Christopher Walken",
             "Bruce Willis"
         ],
-        "genre": [
-            "Crime,Drama"
+        "genres": [
+            "Crime",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -10247,8 +10939,10 @@
             "Chelcie Ross",
             "John Beasley"
         ],
-        "genre": [
-            "Drama,Fantasy,Horror"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
         ],
         "decade": 2000
     },
@@ -10265,8 +10959,9 @@
             "Ng Man-Tat",
             "Anita Mui"
         ],
-        "genre": [
-            "Comedy,Fantasy"
+        "genres": [
+            "Comedy",
+            "Fantasy"
         ],
         "decade": 1990
     },
@@ -10287,8 +10982,9 @@
             "John Pleshette",
             "Sylvia Meals"
         ],
-        "genre": [
-            "Drama,Sport"
+        "genres": [
+            "Drama",
+            "Sport"
         ],
         "decade": 1970
     },
@@ -10309,8 +11005,10 @@
             "Jon Gries",
             "Sergio Calderón"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -10331,8 +11029,10 @@
             "Mickey Rourke",
             "Andrew Shue"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -10348,7 +11048,7 @@
             "Peter Rowsthorn",
             "Magda Szubanski"
         ],
-        "genre": [
+        "genres": [
             "Comedy"
         ],
         "decade": 2000
@@ -10366,8 +11066,10 @@
             "Jason Mewes",
             "Kevin Smith"
         ],
-        "genre": [
-            "Comedy,Drama,Romance"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
         ],
         "decade": 1990
     },
@@ -10390,8 +11092,10 @@
             "Dominic Monaghan",
             "Orlando Bloom"
         ],
-        "genre": [
-            "Adventure,Drama,Fantasy"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
         ],
         "decade": 2000
     },
@@ -10409,8 +11113,10 @@
             "Laurence Fox",
             "Ian Richardson"
         ],
-        "genre": [
-            "Biography,Drama,Romance"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Romance"
         ],
         "decade": 2000
     },
@@ -10426,7 +11132,7 @@
             "Tricia Leigh Fisher",
             "Millie Perkins"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -10449,7 +11155,7 @@
             "John Cameron",
             "Ted Raimi"
         ],
-        "genre": [
+        "genres": [
             "Horror"
         ],
         "decade": 1980
@@ -10470,8 +11176,10 @@
             "Tommy Lee Jones",
             "Ernest Borgnine"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 1990
     },
@@ -10490,8 +11198,10 @@
             "Danny Mann",
             "Robbie Rist"
         ],
-        "genre": [
-            "Adventure,Animation,Drama"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -10514,8 +11224,9 @@
             "Victor Wong",
             "Bibi Besch"
         ],
-        "genre": [
-            "Comedy,Horror"
+        "genres": [
+            "Comedy",
+            "Horror"
         ],
         "decade": 1990
     },
@@ -10536,8 +11247,10 @@
             "Eddy Ko",
             "Chi Ming Lau"
         ],
-        "genre": [
-            "Action,Comedy,Drama"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
         ],
         "decade": 1990
     },
@@ -10556,8 +11269,10 @@
             "Bill Nunn",
             "Brian Cox"
         ],
-        "genre": [
-            "Crime,Drama,Mystery"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
         ],
         "decade": 1990
     },
@@ -10577,7 +11292,7 @@
             "Nilu Phule",
             "Shubha Khote"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1980
@@ -10603,8 +11318,10 @@
             "Bruce Campbell",
             "Elizabeth Banks"
         ],
-        "genre": [
-            "Action,Adventure,Sci-Fi"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -10630,8 +11347,10 @@
             "Susan Sarandon",
             "John Lithgow"
         ],
-        "genre": [
-            "Adventure,Animation,Comedy"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -10651,8 +11370,10 @@
             "Chris Sanders",
             "Randy Thom"
         ],
-        "genre": [
-            "Action,Adventure,Animation"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
         ],
         "decade": 2010
     },
@@ -10669,8 +11390,9 @@
             "Anupam Kher",
             "Jay Sean"
         ],
-        "genre": [
-            "Comedy,Mystery"
+        "genres": [
+            "Comedy",
+            "Mystery"
         ],
         "decade": 2000
     },
@@ -10691,7 +11413,7 @@
             "Rick Dial",
             "Brent Briscoe"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 1990
@@ -10715,8 +11437,10 @@
             "Tom Green",
             "Luke Wilson"
         ],
-        "genre": [
-            "Action,Adventure,Comedy"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
         ],
         "decade": 2000
     },
@@ -10735,8 +11459,9 @@
             "Robert Vaughn",
             "Trevor Einhorn"
         ],
-        "genre": [
-            "Comedy,Sport"
+        "genres": [
+            "Comedy",
+            "Sport"
         ],
         "decade": 1990
     },
@@ -10760,8 +11485,10 @@
             "Sylvester Groth",
             "Martin Wuttke"
         ],
-        "genre": [
-            "Adventure,Drama,War"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
         ],
         "decade": 2000
     },
@@ -10784,8 +11511,10 @@
             "Hattie Winston",
             "Sid Haig"
         ],
-        "genre": [
-            "Crime,Drama,Thriller"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
         ],
         "decade": 1990
     },
@@ -10801,8 +11530,10 @@
             "Tanuja",
             "Poonam Dhillon"
         ],
-        "genre": [
-            "Action,Drama,Romance"
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance"
         ],
         "decade": 1980
     },
@@ -10826,7 +11557,7 @@
             "Diana Bracho",
             "Emilio Echevarría"
         ],
-        "genre": [
+        "genres": [
             "Drama"
         ],
         "decade": 2000
@@ -10847,8 +11578,10 @@
             "Romany Malco",
             "Daniel Kash"
         ],
-        "genre": [
-            "Action,Comedy,Sci-Fi"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
         ],
         "decade": 2000
     },
@@ -10869,8 +11602,9 @@
             "Sunder",
             "Rashid Khan"
         ],
-        "genre": [
-            "Musical,Romance"
+        "genres": [
+            "Musical",
+            "Romance"
         ],
         "decade": 1960
     },
@@ -10891,8 +11625,10 @@
             "Roger Casamajor",
             "Sergi Lopez"
         ],
-        "genre": [
-            "Drama,Fantasy,War"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "War"
         ],
         "decade": 2000
     },
@@ -10913,8 +11649,10 @@
             "Sujit Kumar",
             "Roopesh Kumar"
         ],
-        "genre": [
-            "Action,Crime,Romance"
+        "genres": [
+            "Action",
+            "Crime",
+            "Romance"
         ],
         "decade": 1970
     }
